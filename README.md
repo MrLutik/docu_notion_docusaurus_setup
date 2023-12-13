@@ -58,7 +58,7 @@ npm -v
 yarn -v
 ```
 
-#### Clone and Prepare Repository for Docusaurus
+## Clone and Prepare Repository for Docusaurus
 
 1. **Clone the Repository:**
 
